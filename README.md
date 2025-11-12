@@ -1,7 +1,7 @@
 # 🎨 Frontend Development — College Lectures
 
 A complete repository of all **lecture notes, assignments, examples, and practice tasks** covered in the *Frontend Development* classes.  
-This collection helps you understand concepts from **HTML basics to advanced CSS layouts**.
+This collection helps you understand concepts from **HTML basics to advanced CSS layouts and responsive design**.
 
 ---
 
@@ -16,6 +16,7 @@ This collection helps you understand concepts from **HTML basics to advanced CSS
 | 5 | CSS Basics | Styling fundamentals and selectors |
 | 6 | CSS Flexbox | Modern one-dimensional layout system |
 | 7 | CSS Box Model | Margins, borders, padding, content |
+| 8 | Bootstrap | Responsive layouts and components using Bootstrap |
 
 ---
 
@@ -29,6 +30,7 @@ By the end of this course, you will be able to:
 - Style websites using **CSS3**  
 - Use **Flexbox** to build responsive layouts  
 - Understand the **CSS Box Model** and spacing  
+- Design responsive web pages using the **Bootstrap Framework**  
 - Manage your projects using **Git & GitHub**
 
 ---
@@ -38,15 +40,15 @@ By the end of this course, you will be able to:
 ### 🟩 Lecture 1 — Introduction to Web Development
 
 **Topics Covered:**
-- What is the Internet? How websites load?
-- Client, Server, and Rendering
-- Frontend vs Backend vs Full Stack
-- Development Tools Setup: VS Code, Git, Live Server
-- Browsers and Rendering Engines
+- What is the Internet? How websites load?  
+- Client, Server, and Rendering  
+- Frontend vs Backend vs Full Stack  
+- Development Tools Setup: VS Code, Git, Live Server  
+- Browsers and Rendering Engines  
 
 **✅ Tasks Completed:**
-- Created College Timetable Page  
-- Designed Question Paper Template  
+- Created *College Timetable Page*  
+- Designed *Question Paper Template*  
 
 ---
 
@@ -60,8 +62,8 @@ By the end of this course, you will be able to:
 - Best practices for readable HTML  
 
 **✅ Tasks Completed:**
-- Built Examination Portal UI  
-- Created HTML Forms for user input  
+- Built *Examination Portal UI*  
+- Created *HTML Forms* for user input  
 
 ---
 
@@ -70,12 +72,12 @@ By the end of this course, you will be able to:
 **Topics Covered:**
 - Difference between block-level vs inline elements  
 - Examples of each type  
-- Using CSS display property  
+- Using CSS `display` property  
 - How elements affect layout  
 
 **✅ Tasks Completed:**
-- Improved Examination Portal layout  
-- Practical classification of tags as block or inline  
+- Improved *Examination Portal Layout*  
+- Classified HTML tags as block or inline  
 
 ---
 
@@ -88,8 +90,8 @@ By the end of this course, you will be able to:
 - Security features: `sandbox`, `referrerpolicy`  
 
 **✅ Tasks Completed:**
-- Embedded YouTube Video using `<iframe>`  
-- Created page demonstrating multiple iframe use-cases  
+- Embedded *YouTube Video* using `<iframe>`  
+- Created *Multi-iframe Demonstration Page*  
 
 ---
 
@@ -100,11 +102,11 @@ By the end of this course, you will be able to:
 - Selectors & properties  
 - Text formatting, colors, backgrounds  
 - Borders, spacing, fonts  
-- Intro to layout styling  
+- Introduction to layout styling  
 
 **✅ Tasks Completed:**
-- Styled Examination Portal  
-- Created Basic Styled Webpage using external CSS  
+- Styled *Examination Portal*  
+- Created *Basic Styled Webpage* using external CSS  
 
 ---
 
@@ -115,11 +117,11 @@ By the end of this course, you will be able to:
   `display: flex`, `justify-content`, `align-items`, `flex-wrap`  
 - **Flex item properties:**  
   `flex-grow`, `flex-shrink`, `flex-basis`  
-- Building navbars, cards, gallery layouts  
+- Building navigation bars, cards, and gallery layouts  
 
 **✅ Tasks Completed:**
-- Designed Flexbox-based Layout  
-- Created Responsive Card Section  
+- Designed *Flexbox-based Layout*  
+- Created *Responsive Card Section*  
 
 ---
 
@@ -132,12 +134,43 @@ By the end of this course, you will be able to:
 - How spacing affects design  
 
 **✅ Tasks Completed:**
-- Created Box Model Demonstration Page  
-- Practiced margin & padding layouts  
+- Created *Box Model Demonstration Page*  
+- Practiced *margin & padding layouts*  
+
+---
+
+### ⬛ Lecture 8 & 9 — Bootstrap
+
+**Topics Covered:**
+- Introduction to **Bootstrap Framework**  
+- Grid system and responsive breakpoints  
+- Bootstrap utilities: spacing, text, colors  
+- Components: Navbar, Cards, Buttons, Modals  
+- Customizing Bootstrap with CSS overrides  
+
+**✅ Tasks Completed:**
+- Created **Portfolio Page** using Bootstrap  
+- Implemented **responsive layout** using grid and components  
 
 ---
 
 ## 🧠 About
 
-This repository is part of **Frontend Development college coursework**, focusing on building a strong foundation in HTML and CSS.  
+This repository is part of the **Frontend Development college coursework**, focusing on building a strong foundation in **HTML, CSS, and Bootstrap**.  
 All files are organized **lecture-wise** for clarity and easy reference.
+
+---
+
+### 💻 Tools Used
+- Visual Studio Code  
+- Git & GitHub  
+
+
+---
+
+### 🌐 Author
+**Akshita Singh**  
+Frontend Development Coursework — 2025  
+📁 Repository: [Frontend.Dev](https://github.com/Akshita055/Frontend.Dev)
+
+---
