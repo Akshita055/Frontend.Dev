@@ -1,7 +1,7 @@
 # 🎨 Frontend Development — College Lectures
 
 A complete repository of all **lecture notes, assignments, examples, and practice tasks** covered in the *Frontend Development* classes.  
-This collection helps you understand concepts from **HTML basics to advanced CSS layouts and responsive design**.
+This collection helps you understand concepts from **HTML basics to advanced CSS layouts, responsive design, and JavaScript programming**.
 
 ---
 
@@ -16,7 +16,8 @@ This collection helps you understand concepts from **HTML basics to advanced CSS
 | 5 | CSS Basics | Styling fundamentals and selectors |
 | 6 | CSS Flexbox | Modern one-dimensional layout system |
 | 7 | CSS Box Model | Margins, borders, padding, content |
-| 8 | Bootstrap | Responsive layouts and components using Bootstrap |
+| 8–9 | Bootstrap | Responsive layouts and components using Bootstrap |
+| 10–11 | JavaScript | Introduction, variables, operators, and control statements |
 
 ---
 
@@ -25,12 +26,12 @@ This collection helps you understand concepts from **HTML basics to advanced CSS
 By the end of this course, you will be able to:
 
 - Understand the **client–server model** and how websites work  
-- Build **clean, semantic webpages** using HTML5  
-- Create **accessible layouts** using proper HTML tags  
-- Style websites using **CSS3**  
-- Use **Flexbox** to build responsive layouts  
-- Understand the **CSS Box Model** and spacing  
-- Design responsive web pages using the **Bootstrap Framework**  
+- Build **semantic and accessible webpages** using HTML5  
+- Style websites using **CSS3**, **Flexbox**, and **Bootstrap**  
+- Design **responsive layouts** for all screen sizes  
+- Write **JavaScript programs** to make webpages interactive  
+- Understand **variables, data types, and operators** in JS  
+- Implement **control statements** for logic flow  
 - Manage your projects using **Git & GitHub**
 
 ---
@@ -154,9 +155,28 @@ By the end of this course, you will be able to:
 
 ---
 
+### 🟩 Lecture 10 & 11 — JavaScript
+
+**Topics Covered:**
+- Introduction to **JavaScript** and its role in web development  
+- How to add JS: internal & external scripts  
+- **Variables and Data Types**  
+- **Operators:** arithmetic, comparison, logical  
+- **Math module** and built-in functions  
+- **Control statements:**  
+  `if`, `else`, `switch`, `for`, `while`, `do...while`  
+- Basic DOM understanding and console testing  
+
+**✅ Tasks Completed:**
+- Created **JavaScript Practice Files**  
+- Performed **arithmetic operations using variables**  
+- Implemented **control statement programs**  
+
+---
+
 ## 🧠 About
 
-This repository is part of the **Frontend Development college coursework**, focusing on building a strong foundation in **HTML, CSS, and Bootstrap**.  
+This repository is part of the **Frontend Development college coursework**, focusing on building a strong foundation in **HTML, CSS, Bootstrap, and JavaScript**.  
 All files are organized **lecture-wise** for clarity and easy reference.
 
 ---
@@ -164,7 +184,8 @@ All files are organized **lecture-wise** for clarity and easy reference.
 ### 💻 Tools Used
 - Visual Studio Code  
 - Git & GitHub  
-
+- Live Server Extension  
+- Chrome DevTools  
 
 ---
 
