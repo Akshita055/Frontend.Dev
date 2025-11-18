@@ -1,5 +1,5 @@
 const data = {
-  stringData: "Aman",
+  stringData: "akshita",
   numberData: 21,
   booleanData: true,
   arrayData: [1, 2, 3],
