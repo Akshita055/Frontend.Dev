@@ -1,0 +1,6 @@
+hoisting : it is a behav. of js where it moves the declaration of varialbe funtions and classes to the top of there scope during the compilations phase and before the code is executed
+in this all the variable that are assiggned var will be declared undefined
+
+in this there are two phase:
+- memory phase
+- execution phase
