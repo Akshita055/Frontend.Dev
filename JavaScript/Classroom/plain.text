@@ -1,0 +1,64 @@
+1.scripting 
+2.dynamicically 
+3.single thread -Promises 
+4.oops 
+5.virtual dom 
+6.Robust in nature
+7.Event Driven -hover
+8.Platform Independent -wora 
+9.Functional and procedural
+10.ssr vs csr 
+
+---------------------------------------------------------------------------
+
+variables - containers to store datatypes 
+
+Primitive -
+Non-Primitive - 
+
+
+let,var,const
+Undefined 
+Null 
+Symbol 
+BigInt 
+Boolean
+number 
+string
+
+var-declared,reinitialised                    lexical no                functional sc
+let-declare,intialise,reinitialsie                                      global var
+cosnt-declare and initialsie , no redeclare   lexical no                local scope
+
+
+hoisting 
+scope
+------------------------------------------------------------------------------
+
+operators - 
+1.Arithmetic
+2.Relational 
+3. Bitwise
+4.Ternary
+5.Logical
+6.Unary
+7.Nullish Coalsceing-??
+8.Assignment 
+8. Type of
+
+------------------------------------------------------------
+
+Control Statments
+1.Condition{
+    if,if else , if else if, switch
+}
+2. Looping {
+    for, , do while, for in, for of
+}
+
+
+
+//break continue return - jump StatmentsS
+
+11 november
+Scopes- functional, global,lexical
