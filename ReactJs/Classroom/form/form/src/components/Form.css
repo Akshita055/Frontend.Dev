@@ -1,0 +1,43 @@
+.form-wrap{
+  display:flex;
+  gap:24px;
+  align-items:flex-start;
+  justify-content:center;
+  padding:40px 16px;
+  color:#222;
+}
+.simple-form{
+  background: linear-gradient(135deg,#ffffff 0%, #f7f9fc 100%);
+  border-radius:10px;
+  padding:20px 22px;
+  width:360px;
+  box-shadow:0 8px 30px rgba(20,40,80,0.12);
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;
+}
+.simple-form h2{margin:0 0 12px;color:#2c3e50}
+.simple-form label{display:block;margin-bottom:12px}
+.simple-form label span{display:block;font-size:13px;margin-bottom:6px;color:#4b5563}
+.simple-form input[type="text"],
+.simple-form input[type="email"],
+.simple-form select,
+.simple-form textarea{
+  width:100%;
+  padding:8px 10px;
+  border-radius:6px;
+  border:1px solid #e6e9ef;
+  background:#fff;
+  font-size:14px;
+}
+.simple-form textarea{min-height:90px;resize:vertical}
+.simple-form .agree{display:flex;gap:8px;align-items:center}
+.simple-form .actions{display:flex;gap:10px;margin-top:6px}
+.simple-form button{background:#0ea5a4;color:white;padding:8px 14px;border-radius:8px;border:none;cursor:pointer}
+.simple-form button.reset{background:transparent;color:#0ea5a4;border:1px solid #0ea5a4}
+.simple-form .err{color:#b91c1c;font-size:12px;margin-top:6px;display:block}
+.result{background:linear-gradient(90deg,#f0f9ff,#ecfccb);padding:16px;border-radius:8px;max-width:420px}
+.result pre{background:transparent;padding:0;margin:0;color:#065f46}
+
+@media (max-width:720px){
+  .form-wrap{flex-direction:column;align-items:center}
+  .simple-form{width:100%;max-width:420px}
+}
